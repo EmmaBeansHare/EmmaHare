@@ -4,7 +4,7 @@ Currently learning full-stack JavaScript web-development, mainly at [The Odin Pr
 
 Interested in programming, digital design, PC-builds, but also nature and writing 🌿
 
-Fluent in English, German, Slovak and Czechian || Conversant in Russian and Polish 🌍
+Fluent in English, German, Slovak and Czech || Conversant in Russian and Polish 🌍
 
 Fun fact: I'm known as BakedBeansOnToast on most other platforms 🥫🍞
 
