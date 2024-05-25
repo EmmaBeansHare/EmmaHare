@@ -1,6 +1,6 @@
 ## Emma Hare <3
 
-Currently learning full-stack JavaScript development, mainly at [The Odin Project](https://www.theodinproject.com/) 💻
+Currently learning full-stack JavaScript web-development, mainly at [The Odin Project](https://www.theodinproject.com/) 💻
 
 Interested in programming, digital design, PC-builds, but also nature and writing 🌿
 
