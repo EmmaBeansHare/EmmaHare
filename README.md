@@ -1,4 +1,4 @@
-## Emma Hare <3
+## Emma Hare
 
 Currently learning full-stack JavaScript web-development, mainly at [The Odin Project](https://www.theodinproject.com/) 💻
 
