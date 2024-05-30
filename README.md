@@ -6,6 +6,6 @@ Interested in programming, digital design, PC-builds, but also nature and writin
 
 Fluent in English, German, Slovak and Czech || Conversant in Russian and Polish 🌍
 
-Fun fact: I'm known as BakedBeansOnToast on most other platforms 🥫🍞
+Fun fact: I'm known as BakedBeansOnToast on most other platforms 🫘
 
 She/Her
